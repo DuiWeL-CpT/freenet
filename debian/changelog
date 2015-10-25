@@ -1,7 +1,11 @@
-freenet-daemon (0.7.5+build01444+ext50-1) UNRELEASED; urgency=medium
+freenet-daemon (0.7.5+parrot0) testing; urgency=medium
 
+  [ Ximin Luo ]
   * Update Debian package to be more standard.
   * New upstream release.
+
+  [ Lorenzo "Palinuro" Faletra ]
+  * Import into Parrot
 
  -- Ximin Luo <infinity0@debian.org>  Sun, 25 Oct 2015 14:18:29 +0100
 

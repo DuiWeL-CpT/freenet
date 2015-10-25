@@ -1,6 +1,0 @@
-[submodule "fred"]
-	path = fred
-	url = git://github.com/freenet/fred.git
-[submodule "contrib"]
-	path = contrib
-	url = git://github.com/freenet/contrib.git
